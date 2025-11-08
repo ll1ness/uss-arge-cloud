@@ -1,6 +1,9 @@
-<img src="https://img.shields.io/static/v1?label=License&message=Apache&color=green?style=plastic&logo=github" /> <img src="https://img.shields.io/static/v1?label=OpenSource&message=Project&color=green?style=plastic&logo=git" /> <img src="https://img.shields.io/static/v1?label=USS&message=Cloud&color=black?style=plastic&logo=php" /> <img src="https://img.shields.io/static/v1?label=Solo&message=Developer&color=green?style=plastic&logo=github" />
+<img src="https://img.shields.io/static/v1?label=License&message=Apache&color=green?style=plastic&logo=github" /> <img src="https://img.shields.io/static/v1?label=OpenSource&message=Project&color=green?style=plastic&logo=git" /> <img src="https://img.shields.io/static/v1?label=USS&message=Cloud&color=black?style=plastic&logo=php" /> <img src="https://img.shields.io/static/v1?label=Solo&message=Developer&color=green?style=plastic&logo=github" /> 
+<img src="https://img.shields.io/badge/Solo-Development-red"> <img src="https://img.shields.io/badge/ViraXis_Platform-Confirmed-blue">
 
-# USS(Update-Upload System) ARGECloud for users
+
+# USS(Update-Upload System) ARGECloud for users <img src="https://img.shields.io/badge/Status-In_development-black">
+
 This system use for just ll1ness's projects and not using for other users.
 
 ### About
